@@ -19,6 +19,8 @@ TIP: Never let your crypto on exchange! Remember: not your keys, not your crypto
 
 ## Crypto News
 
+* Forbes Crypto - [https://www.forbes.com/crypto-blockchain](https://www.forbes.com/crypto-blockchain)
+
 ## Security Best Practices
 
 * Backups
@@ -35,3 +37,5 @@ It's important to keep safe your keys using a hardware wallet or cold wallet for
 ## Twitter Lists
 
 ## Learning
+
+* Binance Academy
