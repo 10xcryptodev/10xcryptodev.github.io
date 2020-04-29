@@ -25,7 +25,9 @@ TIP: Never let your crypto on exchange! Remember: not your keys, not your crypto
 
 * Backups
 * Hardware Wallets
-* Multisign
+* Cold Wallets
+* Multisign Address
+* 2FA
 
 ## Hardware Wallets
 It's important to keep safe your keys using a hardware wallet or cold wallet for high values
