@@ -35,9 +35,10 @@ It's important to keep safe your keys using a hardware wallet or cold wallet for
 * Keepkey - [https://shapeshift.com/keepkey](https://shapeshift.com/keepkey)
 * Ledger - [https://www.ledger.com/](https://www.ledger.com/)
 * Trezor - [https://trezor.io/](https://trezor.io/)
+* Casa - [https://keys.casa/](https://keys.casa/)
 
 ## Twitter Lists
 
 ## Learning
 
-* Binance Academy
+* Binance Academy - [https://www.binance.vision/](https://www.binance.vision/)
