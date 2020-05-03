@@ -32,10 +32,11 @@ TIP: Never let your crypto on exchange! Remember: not your keys, not your crypto
 ## Hardware Wallets
 It's important to keep safe your keys using a hardware wallet or cold wallet for high values
 
+* Casa - [https://keys.casa/](https://keys.casa/)
+* Ellipal - [https://www.ellipal.com/](https://www.ellipal.com/)
 * Keepkey - [https://shapeshift.com/keepkey](https://shapeshift.com/keepkey)
 * Ledger - [https://www.ledger.com/](https://www.ledger.com/)
 * Trezor - [https://trezor.io/](https://trezor.io/)
-* Casa - [https://keys.casa/](https://keys.casa/)
 
 ## Twitter Lists
 
