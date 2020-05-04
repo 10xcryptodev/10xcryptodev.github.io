@@ -40,6 +40,9 @@ It's important to keep safe your keys using a hardware wallet or cold wallet for
 
 ## Twitter Lists
 
+* 10xcryptodev - cryptobots - [https://twitter.com/i/lists/1251656141798617088](https://twitter.com/i/lists/1251656141798617088)
+* 10xcryptodev - cryptonews - [https://twitter.com/i/lists/1254114729594957825](https://twitter.com/i/lists/1254114729594957825)
+
 ## Learning
 
 * Binance Academy - [https://www.binance.vision/](https://www.binance.vision/)
