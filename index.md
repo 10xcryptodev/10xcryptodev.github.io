@@ -14,11 +14,13 @@ TIP: Never let your crypto on exchange! Remember: not your keys, not your crypto
 
 * Binance - [https://binance.com/](https://binance.com/)
 * Bittrex - [https://bittrex.com/](https://bittrex.com/)
+* Coinbase - [https://www.coinbase.com/](https://www.coinbase.com/)
 
 ## Crypto Tools
 
 ## Crypto News
 
+* Cointelegraph - [https://cointelegraph.com/](https://cointelegraph.com/)
 * Forbes Crypto - [https://www.forbes.com/crypto-blockchain](https://www.forbes.com/crypto-blockchain)
 
 ## Security Best Practices
