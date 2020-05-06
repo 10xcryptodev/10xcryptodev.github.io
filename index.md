@@ -18,6 +18,9 @@ TIP: Never let your crypto on exchange! Remember: not your keys, not your crypto
 
 ## Crypto Tools
 
+* Bitcoin Visualizations - [https://www.lopp.net/bitcoin-information/visualizations.html](https://www.lopp.net/bitcoin-information/visualizations.html)
+* Bitcoin Predictions - [https://fnordprefekt.de/](https://fnordprefekt.de/)
+
 ## Crypto News
 
 * Cointelegraph - [https://cointelegraph.com/](https://cointelegraph.com/)
