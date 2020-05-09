@@ -36,6 +36,11 @@ TIP: Never let your crypto on exchange! Remember: not your keys, not your crypto
 
 ## Wallet Best Practices
 
+1. Never let all the funds in just one wallet
+2. Always backup your wallet, prefer wallets that has mnemonic seeds (HD wallets). It's easier to backup words in a safe way
+3. Large amounts should be stored in wallets that has 2FA, MUltisign, Hardware wallets, cold wallets, combinations of these technologies are the best
+4. Think wallets as the fiat wallets, you don't carry all your funds all the way around, split in day use wallets and safe wallets
+
 ## Mobile Wallets
 
 ## Hardware Wallets
