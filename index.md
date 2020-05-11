@@ -60,3 +60,4 @@ It's important to keep safe your keys using a hardware wallet or cold wallet for
 ## Learning
 
 * Binance Academy - [https://www.binance.vision/](https://www.binance.vision/)
+* Coinbase Learn - [https://www.coinbase.com/learn](https://www.coinbase.com/learn)
