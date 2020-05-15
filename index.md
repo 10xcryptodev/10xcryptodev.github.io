@@ -2,6 +2,11 @@
 
 This page will list useful resources related to crypto and blockchain universe. You can collaborate doing a pull request or reaching at [https://twitter.com/10xcryptodev](https://twitter.com/10xcryptodev)
 
+## Learning
+
+* Binance Academy - [https://www.binance.vision/](https://www.binance.vision/)
+* Coinbase Learn - [https://www.coinbase.com/learn](https://www.coinbase.com/learn)
+
 ## General Market Information
 Sites that you can find general information and KPIs about cryptocurrencies
 
@@ -33,7 +38,7 @@ TIP: Never let your crypto on exchange! Remember: not your keys, not your crypto
 * Hardware Wallets
 * Cold Wallets
 * Multisign Address
-* 2FA
+* 2FA - Two factor authentication - prefer exchanges and wallets that use this type of security best practice, this will reduce chances against loosing control over accounts or funds
 
 ## Wallet Best Practices
 
@@ -57,8 +62,3 @@ It's important to keep safe your keys using a hardware wallet or cold wallet for
 
 * 10xcryptodev - cryptobots - [https://twitter.com/i/lists/1251656141798617088](https://twitter.com/i/lists/1251656141798617088)
 * 10xcryptodev - cryptonews - [https://twitter.com/i/lists/1254114729594957825](https://twitter.com/i/lists/1254114729594957825)
-
-## Learning
-
-* Binance Academy - [https://www.binance.vision/](https://www.binance.vision/)
-* Coinbase Learn - [https://www.coinbase.com/learn](https://www.coinbase.com/learn)
