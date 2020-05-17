@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/10xcryptodev
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://10xcryptodev.github.io
+  * I am 10xcryptodev (https://keybase.io/10xcryptodev) on keybase.
+  * I have a public key ASBb1k-_eD6kVMLryEt5keckHAhyoYRlkwNRiz-1PHyaQQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205bd64fbf783ea454c2ebc84b7991e7241c0872a184659303518b3fb53c7c9a410a",
+      "host": "keybase.io",
+      "kid": "01205bd64fbf783ea454c2ebc84b7991e7241c0872a184659303518b3fb53c7c9a410a",
+      "uid": "1d819f456b307706ea02095d6bf8b619",
+      "username": "10xcryptodev"
+    },
+    "merkle_root": {
+      "ctime": 1589739303,
+      "hash": "ac41fd95d5c1f5cde6f1e66680017dbe3c6b9efa7545420959ea43498d33b64a092d3ffa8f19f17e241fc3d3ccf295c7562c101dd3e60d92a1da1d17e3abdb53",
+      "hash_meta": "d94f83e111fcefe5c682f347ddd6c618cbd36b3b74cda2e49dc4b13b4d77e7b3",
+      "seqno": 16325818
+    },
+    "service": {
+      "entropy": "02yg4LSTGsw40T4SAXXdExt6",
+      "hostname": "10xcryptodev.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.4.2"
+  },
+  "ctime": 1589739357,
+  "expire_in": 504576000,
+  "prev": "c7b59a33aa869445bcd2f3b0d810a8ecd5fad6a1f587ec34ae1c36a0accaa633",
+  "seqno": 53,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgW9ZPv3g+pFTC68hLeZHnJBwIcqGEZZMDUYs/tTx8mkEKp3BheWxvYWTESpcCNcQgx7WaM6qGlEW80vOw2BCo7NX61qH1h+w0rhw2oKzKpjPEIDMTZyfawfqA4DEu7wve9vvs1yJVEKLFRqXcZWhQ1kN1AgHCo3NpZ8RAJsXUdXrgaOfjFL2Krpr5AfPeMuJ4iBpLyCtxddIoRqhwLGV2ub+LXwQYwWaKyy+71cg8r5oR+z37r9L0Ucv5BKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMNnwQgAMuNTotUGjK5VJUYIZS1L2eXLnjo5rZ6DaKjoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/10xcryptodev
+
+==================================================================
