@@ -1,6 +1,6 @@
 ## Crypto Tools
 
-This page will list useful resources related to crypto and blockchain universe. You can collaborate doing a pull request or reaching at [https://twitter.com/10xcryptodev](https://twitter.com/10xcryptodev)
+This page will list useful resources related to crypto and blockchain universe and help me to don't have an infinite bookmark bar :) You can collaborate doing a pull request or reaching at [https://twitter.com/10xcryptodev](https://twitter.com/10xcryptodev)
 
 ## Learning
 
@@ -62,3 +62,7 @@ It's important to keep safe your keys using a hardware wallet or cold wallet for
 
 * 10xcryptodev - cryptobots - [https://twitter.com/i/lists/1251656141798617088](https://twitter.com/i/lists/1251656141798617088)
 * 10xcryptodev - cryptonews - [https://twitter.com/i/lists/1254114729594957825](https://twitter.com/i/lists/1254114729594957825)
+
+## Developer Tools
+
+* Bitcoin and Lightning CLI - [https://chainquery.com/](https://chainquery.com/)
