@@ -49,6 +49,8 @@ TIP: Never let your crypto on exchange! Remember: not your keys, not your crypto
 
 ## Mobile Wallets
 
+* Coinomi - [https://www.coinomi.com/en/](https://www.coinomi.com/en/)
+
 ## Hardware Wallets
 It's important to keep safe your keys using a hardware wallet or cold wallet for high values
 
